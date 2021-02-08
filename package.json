@@ -1,9 +1,9 @@
 {
-  "name": "expensify",
+  "name": "budget-app-heroku-1996",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
-  "license": "MIT",
+  "author": "Udit Jaitly",
+  "license": "",
   "scripts": {
     "build:dev": "webpack",
     "build:prod": "webpack -p --env production",

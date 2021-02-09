@@ -67,7 +67,7 @@ export default class ExpenseForm extends React.Component {
         />
         <input
           type="text"
-          placeholder="Amount"
+          placeholder="$ Amount"
           className="text-input"
           value={this.state.amount}
           onChange={this.onAmountChange}
@@ -81,7 +81,7 @@ export default class ExpenseForm extends React.Component {
           isOutsideRange={() => false}
         />
         <textarea
-          placeholder="Add a note for your expense (optional)"
+          placeholder="Add an additional note for your expense(optional)"
           className="textarea"
           value={this.state.note}
           onChange={this.onNoteChange}

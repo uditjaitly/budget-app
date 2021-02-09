@@ -2,7 +2,7 @@
   "name": "budget-app-udit-jaitly",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Udit Jaitly",
+  "author": "UditJaitly",
   "license": "MIT",
   "scripts": {
     "build:dev": "webpack",
